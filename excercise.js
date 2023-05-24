@@ -11,10 +11,10 @@
  * Output: true
  * 
  * Input: isCodeGood("({[})")
- * Output: true
+ * Output: false
  *   
  * Input: isCodeGood("]")
- * Output: true
+ * Output: false
  * 
  * 
  * */
