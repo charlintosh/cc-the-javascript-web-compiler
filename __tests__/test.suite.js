@@ -1,6 +1,6 @@
 const isCodeGood = require("../excercise");
 
-describe("Code Challenge: Balance Brackets", () => {
+describe("Code Challenge: JS Web Compiler", () => {
   it("function should be defined", () => {
     expect(isCodeGood).toBeDefined();
   });
