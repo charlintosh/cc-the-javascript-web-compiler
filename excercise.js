@@ -4,7 +4,7 @@
  * The engine will check for the correct opening and closing of brackets, parenthesis and curly braces.
  * 
  * Implement a proof of concept function 'isCodeGood(str)' which will receive a string with the closing and opening of the characters mentioned above.
- * Words and other characters are not part for the acceptance criteria. Empty strings are considered valid code, function must return tue.
+ * Words and other characters are not part for the acceptance criteria. Empty strings are considered valid code, function must return true.
  * 
  * For example:
  * Input: isCodeGood("({[]})")
