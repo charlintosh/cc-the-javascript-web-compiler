@@ -19,7 +19,7 @@ Don't work over the branch __master__, you need to create your own branch with t
 To create a new branch based on __master__ you need to run the follwing commands:
 
 ```bash
-git checkout -b CarlosReyes
+git checkout -b CarlosGomez
 ```
 
 You must notice that I used CarlosReyes this is because you need to pass the branch name there so I used my first name and my last name.
